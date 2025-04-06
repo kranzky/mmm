@@ -6,7 +6,7 @@
 
 #### I'm h4
 
-###### I'm h5
+##### I'm h5
 
 ###### I'm h6
 
@@ -60,10 +60,10 @@ Test for divider(hr):
 
 Test for Table:
 
-header 1 | header 2
----|---
-row 1 col 1 | row 1 col 2
-row 2 col 1 | row 2 col 2
+| header 1 | header 2 |
+|---|---|
+| row 1 col 1 | row 1 col 2 |
+| row 2 col 1 | row 2 col 2 |
 
 Image:
 
@@ -75,11 +75,15 @@ Image with link:
 
 Html Image:
 
+```
 <img width="250" height="250" src="assets/script_medias/1675527939855.png"/>
+```
 
 Video:
 
+```
 <video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4">
+```
 
 Maths:
 

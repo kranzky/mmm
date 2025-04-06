@@ -1,0 +1,3 @@
+# Bibliography
+
+[JLH](people.md)

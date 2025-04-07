@@ -17,13 +17,13 @@ A list of M3 project components and their current state. (e.g. [Vertext](vertext
 Details of how to host your own M3 server &c.
 
 ##### [Bibliography](bibliography.md)
-Documentation and blog posts on M3.
+Documentation and blog posts on the Indie Web.
 
 ##### [People](people.md)
 A list of some people involved in the project.
 
 ##### [History](history.md)
-A summary of the history of the Indie Web movement.
+A summary of the history of the Indie Web.
 
 ##### [How can I help](get-involved.md) ?
 If you would like to support the matrix..

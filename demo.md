@@ -12,14 +12,9 @@
 
 ```
 class MarkdownHelper {
-
-
   Map<String, Widget> getTitleWidget(m.Node node) => title.getTitleWidget(node);
-
   Widget getPWidget(m.Element node) => p.getPWidget(node);
-
   Widget getPreWidget(m.Node node) => pre.getPreWidget(node);
-
 }
 ```
 
@@ -133,4 +128,3 @@ $\normalsize Hello!$
 $\small Hello!$
 $\scriptsize Hello!$
 $\tiny Hello!$
-Example:

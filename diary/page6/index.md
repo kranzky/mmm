@@ -1,10 +1,10 @@
-[2021-01-21](/2021/01/21)
+[2021-01-21](/diary/2021/01/21.md)
 
 We have life.
 
-![Conway](/assets/v0.0.13.png)
+![Conway](/diary/assets/v0.0.13.png)
 
-Apart from being sucked into US politics, I’ve spent the last week integrating PixiJS and Quasar/Vue to come up with a basic interface for viewing Conway’s life, including drawing cells into the screen.
+Apart from being sucked into US politics, I've spent the last week integrating PixiJS and Quasar/Vue to come up with a basic interface for viewing Conway's life, including drawing cells into the screen.
 
 It was finicky getting the 320x192 screen to resize correctly and render crisply, and to handle fullscreen, resizing, desktop and mobile, visibility and so on, but it all Mostly Works (tm) now, so I can focus on functionality.
 
@@ -15,17 +15,17 @@ Next steps are:
 - Refactor the Engine to use Rules that fire Actions to mutate State
 - Allow these Rules to be edited in the UI
 
-[2021-01-15](/2021/01/15)
+[2021-01-15](/diary/2021/01/15.md)
 
-Finished the gem and updated the template repo, but didn’t go down the path of working on UI as planned. Instead, I started a new repo from the template so I can play around with PixiJS and perhaps build the HackTile prototype more quickly. Got that set up and deploying to [hacktile.kranzky.com](https://hacktile.kranzky.com)
+Finished the gem and updated the template repo, but didn't go down the path of working on UI as planned. Instead, I started a new repo from the template so I can play around with PixiJS and perhaps build the HackTile prototype more quickly. Got that set up and deploying to [hacktile.kranzky.com](https://hacktile.kranzky.com)
 
-[2021-01-12](/2021/01/12)
+[2021-01-12](/diary/2021/01/12.md)
 
-Worked on adding specs and coverage to both repos, and implemented Quasar as planned. Added all models, actions, views, services and workers. Has to switch to another service (ipstack) for doing geo-lookup of IP addresses when processing sessions. Working now on getting all specs passing, and then adding routes and swagger API documentation generation before testing the authentication flow. After that I’ll get working on the template repo to expose all of these features in the UI. Fun!
+Worked on adding specs and coverage to both repos, and implemented Quasar as planned. Added all models, actions, views, services and workers. Has to switch to another service (ipstack) for doing geo-lookup of IP addresses when processing sessions. Working now on getting all specs passing, and then adding routes and swagger API documentation generation before testing the authentication flow. After that I'll get working on the template repo to expose all of these features in the UI. Fun!
 
-[2021-01-09](/2021/01/09)
+[2021-01-09](/diary/2021/01/09.md)
 
-Sorted out GitHub actions to get both the Punk! and Let’s Punk! projects to run tests and to ship to production when a release is created from a tag in GitHub.
+Sorted out GitHub actions to get both the Punk! and Let's Punk! projects to run tests and to ship to production when a release is created from a tag in GitHub.
 
 Project is now available here: [punk.kranzky.com](https://punk.kranzky.com)
 
@@ -41,25 +41,25 @@ Next steps are:
 
 Once that is all done, I will use the template repo to reproduce the 2010 POC.
 
-[2021-01-08](/2021/01/08)
+[2021-01-08](/diary/2021/01/08.md)
 
-Divided the old RailRoad project into a public gem named Punk! together with a template repository named Let’s Punk!
+Divided the old RailRoad project into a public gem named Punk! together with a template repository named Let's Punk!
 
 Working to get these to a certain point of doneness before creating a new project from the template repository which I will use to re-create the 2010 prototype of HackTile.
 
-[2021-01-04](/2021/01/04)
+[2021-01-04](/diary/2021/01/04.md)
 
 First day of a new way of working.
 
-Spent the weekend rearranging the home office, so I’ll be in a different mental space. It feels good.
+Spent the weekend rearranging the home office, so I'll be in a different mental space. It feels good.
 
-Kids are on holidays. Dropped Eliza in to an all-day drama course, then went shopping with Jack (bought some new coffee… important) and finished off with a bike ride.
+Kids are on holidays. Dropped Eliza in to an all-day drama course, then went shopping with Jack (bought some new coffee... important) and finished off with a bike ride.
 
 Finishing the Big Sur upgrade. PostgreSQL had died. Played around with OBS for recording screencasts. Works better than iShowU. Plan to create a HelloWorld app that smashes RailRoad together with PixiJS and Howler. Need to separate RR out into a GEM first. So cracking on that.
 
-Someone logged a MegaHAL bug noting that it doesn’t work with Ruby3, which was released at XMAS, so fixing that too.
+Someone logged a MegaHAL bug noting that it doesn't work with Ruby3, which was released at XMAS, so fixing that too.
 
-[2020-09-05](/2020/09/05)
+[2020-09-05](/diary/2020/09/05.md)
 
 Starting to muck about with text generation in anticipation of NaNoGenMo this year. I trained a second-order Markov model on over 200 million words of data (three thousand or so texts from Project Gutenberg). Written in Ruby, using my native Sooth library, the entire process took 28 hours and resulted in a 674mb model file. Because Sooth uses a 32-bit context, I used a 16-bit dictionary of words, which I generated by stripping punctuation and capitalising words and then selecting the most frequent 64822 words (I wrote a script to count word frequencies and select word that occurred at least _n_ times such that the result would contain fewer than 65536 words; I think _n_ ended up being 27 or something like that).
 
@@ -75,7 +75,7 @@ I want to use the Markov model to generate sentences, but at the moment it does 
 
 I should also note that `` and `` are special words, as are``, ``, `` and ``. And that I strip `S` from the ends of words, so that `GREATNESS` becomes `GREATNE`, in an effort to reduce the number of unique words (as removing an `S` will often turn a word from plural to singular).
 
-As an example, here is the opening chapter of “The Emerald City of Oz” by L. Frank Baum as presented to the inference algorithm, once parsed into the 16-bit dictionary:
+As an example, here is the opening chapter of "The Emerald City of Oz" by L. Frank Baum as presented to the inference algorithm, once parsed into the 16-bit dictionary:
 
 ```
 
@@ -112,4 +112,4 @@ The heuristic for selecting the best generation will be a function of two factor
 
 These fixation words should also be determined stochastically from data, by observing words that tend to occur in clusters. I am trying here to identify character names, locations, objects and so on that are pertinent to the story. If the model generates a sentence containing the word `SHERLOCK`, for instance, then the mere presence of this word in the story should make it much more likely to occur in the future. This is something to be figured out.
 
-[Previous](/page5)Page: 6 of 26[Next](/page7)
+[Previous](/diary/page5)Page: 6 of 26[Next](/diary/page7)

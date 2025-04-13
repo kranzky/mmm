@@ -58,4 +58,4 @@ Lilian, Lachlan and Joshua played their violins for us afterwards. Then packed u
 
 Did a little bit of work on HackTile but nothing much. Need to find time during the week, as I'm pretty tired now and will make it an early one.
 
-[Previous](/diary/page20)Page: 21 of 26[Next](/diary/page22)
+[Previous](/diary/page20) Page: 21 of 26 [Next](/diary/page22)

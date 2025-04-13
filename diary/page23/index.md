@@ -56,4 +56,4 @@ Dzung, Eliza and I went to the St. Petersberg Ballet production of Swan Lake, wi
 
 Van cooked oxtail soup for the first time with excellent results. Van and Kim had gone to see the Dockers. Had a chat with Kim; she's doing really well, and has just received her registration as a professional architect. Played with Joshua and had dessert, then home for the bedtime routine. Too tired for any further work on HackTile this weekend. We'll see what tomorrow brings.
 
-[Previous](/diary/page22)Page: 23 of 26[Next](/diary/page24)
+[Previous](/diary/page22) Page: 23 of 26 [Next](/diary/page24)

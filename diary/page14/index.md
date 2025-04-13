@@ -30,4 +30,4 @@ Dzung's birthday! Up early to give cards and take Eliza and then Jack to school.
 
 Picked up the kids from their sleepover. Dim sum for lunch, then mooched around Northbridge in the sunny weather and let the kids have a few games at Timezone. Walked to Deep Water Point in the afternoon and had tea and scones at the new Dome Cafe there. Cooked Japanese eggplant for Dzung, and watched The Shape of Water once the kids were asleep.
 
-[Previous](/diary/page13)Page: 14 of 26[Next](/diary/page15)
+[Previous](/diary/page13) Page: 14 of 26 [Next](/diary/page15)

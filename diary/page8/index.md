@@ -19,7 +19,7 @@ I try to do that mid-morning 3-days per week.
 
 [2020-03-28](/diary/2020/03/28.md)
 
-Well. A lot has happened. We're in the middle of a global pandemic. I have[written about it](https://medium.com/the-magic-pantry/exponential-growth-is-going-viral-8ce77dac9ccc)and have[released a dashboard](https://corona.kranzky.com/) as well.
+Well. A lot has happened. We're in the middle of a global pandemic. I have [written about it](https://medium.com/the-magic-pantry/exponential-growth-is-going-viral-8ce77dac9ccc) and have [released a dashboard](https://corona.kranzky.com/) as well.
 
 There's not much more to say. We're happy and healthy and taking care of our parents. And I'm learning to play the guitar.
 
@@ -39,7 +39,7 @@ Great end to the week; fast progress on building new tech at work. Out with Matt
 
 [2019-08-22](/diary/2019/08/22.md)
 
-Just finished reading "The Passionate Programmer" by Chad Fowler, which I discovered after writing a program to find great people on GitHub to try to fill an engineering position at my day job. That book talks about marketing yourself, and, combined with some other advice on that topic that I'd heard recently (although I can't remember where), I was motivated last night to rebuild my[vanity website](https://www.kranzky.com) to do a better job of that.
+Just finished reading "The Passionate Programmer" by Chad Fowler, which I discovered after writing a program to find great people on GitHub to try to fill an engineering position at my day job. That book talks about marketing yourself, and, combined with some other advice on that topic that I'd heard recently (although I can't remember where), I was motivated last night to rebuild my [vanity website](https://www.kranzky.com) to do a better job of that.
 
 This lead to me rebuilding my [blog](https://medium.com/the-magic-pantry), which lead to me subscribing to Medium and finding an unpublished article entitled "Your Password is Terrible", which I published and received a clap for before my hands had left the keyboard.
 
@@ -61,4 +61,4 @@ Will try to keep updating this thing. For sure, this time.
 
 Stayed up to watch the Ninty E3 direct. Nothing outstanding but fun nonetheless, and the kids get a rare treat of watching it over brekky before school. Walked the dog with D. in wintery weather; good opportunity to talk about life after finding out that a brother of a close friend passed away suddenly. It can happen at any time. Out to a laksa lunch in the cold weather. No progress on personal projects, which is unfortunate. Time is slipping away. Need to limit the work I do on my day job so I don't get distracted by it when I should have free time for my own things.
 
-[Previous](/diary/page7)Page: 8 of 26[Next](/diary/page9)
+[Previous](/diary/page7) Page: 8 of 26 [Next](/diary/page9)

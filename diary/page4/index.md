@@ -50,7 +50,7 @@ Well, here we are in mid-July; kids about to return to school after two weeks of
 
 ![Damn](/diary/assets/damn.jpg)
 
-I can see the finish line for Blattix; I have a small list of work to complete over the next ten days, and expect to entirely wrap it up by the end of the month. I also released a [starter kit](https://github.com/kranzky/raylib-flecs-starter-kit)for using Raylib+Flecs, and I plan to use this as the framework for my Deminer and Noid experiments.
+I can see the finish line for Blattix; I have a small list of work to complete over the next ten days, and expect to entirely wrap it up by the end of the month. I also released a [starter kit](https://github.com/kranzky/raylib-flecs-starter-kit) for using Raylib+Flecs, and I plan to use this as the framework for my Deminer and Noid experiments.
 
 Been somewhat distracted by the NSW lockdown, but deliberately weaning myself off the doomscrolling and the live press conferences. Must focus on productivity.
 
@@ -71,15 +71,15 @@ All in all that's a lot! Together with RnDB, which has already been completed, t
 
 [2021-06-08](/diary/2021/06/08.md)
 
-Long time! You should probably note that all BLaTTiX talk has moved over to the[Itch Page](https://thepunkcollective.itch.io/blattix). With only a month of development left, the game is really coming together. Looking forward to starting a new project soon!
+Long time! You should probably note that all BLaTTiX talk has moved over to the [Itch Page](https://thepunkcollective.itch.io/blattix). With only a month of development left, the game is really coming together. Looking forward to starting a new project soon!
 
 [2021-05-12](/diary/2021/05/12.md)
 
-The lockdown gamejam went swimmingly; I finished all of the gameplay work that I intended to do, and I shipped the game to alpha testers on[Itch](https://kranzky.itch.io/blattix), adding both Windows and Mac builds. Feedback has been positive so far.
+The lockdown gamejam went swimmingly; I finished all of the gameplay work that I intended to do, and I shipped the game to alpha testers on [Itch](https://kranzky.itch.io/blattix), adding both Windows and Mac builds. Feedback has been positive so far.
 
-More recently, I've refactored the code to integrate[Flecs](https://github.com/SanderMertens/flecs), an entity-component system, which has helped to clean up the codebase enormously, and which will make it easier to build more complicated game systems.
+More recently, I've refactored the code to integrate [Flecs](https://github.com/SanderMertens/flecs), an entity-component system, which has helped to clean up the codebase enormously, and which will make it easier to build more complicated game systems.
 
-I also lost a day to Linux in an attempt to get a build out; I've installed Debian 7 on two VMs (32-bit and 64-bit) and have a binary built, but the VMs won't run the game due to a lack of support for the GL calls I'm making, so I'll need to test that by installing a more modern Linux on my PC. But with installing Linux, programming in vanilla C and re-watching[Serial Experiments Lain](https://www.youtube.com/watch?v=Hp5kUmni5Dk), it's like I've been transported back to the year 2000.
+I also lost a day to Linux in an attempt to get a build out; I've installed Debian 7 on two VMs (32-bit and 64-bit) and have a binary built, but the VMs won't run the game due to a lack of support for the GL calls I'm making, so I'll need to test that by installing a more modern Linux on my PC. But with installing Linux, programming in vanilla C and re-watching [Serial Experiments Lain](https://www.youtube.com/watch?v=Hp5kUmni5Dk), it's like I've been transported back to the year 2000.
 
 Speaking of, I've been learning a bit about "Modern C", and the differences between C11, C99 and ANSI C, which is what I learned back in the nineties. Most notable are three features that I've come to rely on:
 
@@ -91,4 +91,4 @@ I'll also make sure to use `inline` functions where it makes sense to do so. And
 
 Another change to how I used to write C is a preference for pass-by-value and return-by-value instead of by reference. Which means fewer pointers and less manual memory allocation. These days it can be faster to use immediate values than references for small structures, and compilers will copy the data into registers. Nice!
 
-[Previous](/diary/page3)Page: 4 of 26[Next](/diary/page5)
+[Previous](/diary/page3) Page: 4 of 26 [Next](/diary/page5)

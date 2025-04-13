@@ -44,4 +44,4 @@ Dzung off to the HBF Fun Run, I took the kids to a karate make-up class. Got the
 
 Did some work on HackTile; started to implement a debug UI, and continued work on getting the camera hooked up to controller and mouse controls. Once that's wrapped I'll be moving on to adding extra entity states for spawning and destroying, and will then give these entities some textures and animations :)
 
-[Previous](/diary/page24)Page: 25 of 26[Next](/diary/page26)
+[Previous](/diary/page24) Page: 25 of 26 [Next](/diary/page26)

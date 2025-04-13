@@ -54,4 +54,4 @@ We all had a bit of a sleep in. Late breakfast with the kids, then busy preparin
 
 Amazing how much fun things are when you can interact. Had dinner at a nearby Thai place, before taking the kids home, leaving Dzung to play with the others. Jack and Eliza mucked around with HackTile a bit once we were home, then it was off to bed. And I'm exhausted, so an early night with "End of Watch" for me.
 
-[Previous](/diary/page21)Page: 22 of 26[Next](/diary/page23)
+[Previous](/diary/page21) Page: 22 of 26 [Next](/diary/page23)

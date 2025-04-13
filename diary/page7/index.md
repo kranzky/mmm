@@ -38,4 +38,4 @@ Apart from that, we're still living this dystopian future.
 
 Had an after-work beer with Matthew, Jack and Rob. Virtually, of course. Google Hangouts was janky so we switched to Zoom, and they gifted us unlimited meeting time. Worked pretty well, and we managed to play some of the JackBox party games. Coincidentally, young Jack (aka my son) has been doing Zoom classes at school. Great to see him and a few dozen of his classmates all working together during the day, and his teacher much love the ability to mute all the kids apart from the one that he is asking a question.
 
-[Previous](/diary/page6)Page: 7 of 26[Next](/diary/page8)
+[Previous](/diary/page6) Page: 7 of 26 [Next](/diary/page8)

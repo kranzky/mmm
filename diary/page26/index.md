@@ -97,4 +97,4 @@ Future posts will be shorter. I just want to capture the essence of each day.
 
 Onward!
 
-[Previous](/diary/page25)Page: 26 of 26Next
+[Previous](/diary/page25) Page: 26 of 26Next

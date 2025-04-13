@@ -34,4 +34,4 @@ Rained overnight; awoke to find the day bed awash. Set the tone for the day; mot
 
 Beatutiful spring day. Lazy morning while Dzung took the kids to tennis and North Shore. To Van and Kiet's for brunch; cold meat and spaghetti vongole. Set up the daybed once home and read books with Jack while Dzung napped and Eliza played with her new dot diary and textas. Leftovers for dinner, and watched the first episode of Blue Planet 2 with the kids while Dzung studied. Finished the night listening to podcasts.
 
-[Previous](/diary/page9)Page: 10 of 26[Next](/diary/page11)
+[Previous](/diary/page9) Page: 10 of 26 [Next](/diary/page11)

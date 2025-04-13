@@ -72,4 +72,4 @@ Caught up with Ade and Wil for a Monday roast at Durty's. Good to have a chance 
 
 Really enjoying Oliver Burkman's "Four Thousand Weeks". Lots of good advice. Will keep mindful of this once I start my new job next week!
 
-[Previous](/diary/)Page: 2 of 26[Next](/diary/page3)
+[Previous](/diary/) Page: 2 of 26 [Next](/diary/page3)

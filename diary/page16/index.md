@@ -48,4 +48,4 @@ Up early to help Jack finish his North Shore homework, which we neglected yester
 
 Home in the afternoon to help Eliza clean up her room. Then read some more in the sunshine before playing a bit of Elite Dangerous, as the VR was still set up. Made dinner for the kids (leftovers of potato and leek soup, shepherd's pie and steamed brocolli with vinegar rice) before playing a round of "Takenoko" before bed. Read to Eliza, then watched "The Lobster" with Dzung.
 
-[Previous](/diary/page15)Page: 16 of 26[Next](/diary/page17)
+[Previous](/diary/page15) Page: 16 of 26 [Next](/diary/page17)

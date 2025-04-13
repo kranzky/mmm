@@ -39,4 +39,4 @@ Unfortunately I've had a re-think about how to assign sprites to entities, so I'
 
 This still leaves me with the 16 reserved sprites I need for UI things.
 
-[Previous](/diary/page19)Page: 20 of 26[Next](/diary/page21)
+[Previous](/diary/page19) Page: 20 of 26 [Next](/diary/page21)

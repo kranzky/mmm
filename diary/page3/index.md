@@ -40,4 +40,4 @@ Caught up with Traveller and a few friends for dinner at Long Chim in the evenin
 
 The "Mazes for Programmers" book arrived today, so I'm mooching through that while looking out at a rain-drenched garden. Wife and kids are out at brunch with their cousins this morning; last day in Perth for them today before returning to a one-week hotel quarantine. It'll be Bun Loc for dinner; a perfect meal for a wintry day.
 
-[Previous](/diary/page2)Page: 3 of 26[Next](/diary/page4)
+[Previous](/diary/page2) Page: 3 of 26 [Next](/diary/page4)

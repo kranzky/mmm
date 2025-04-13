@@ -16,7 +16,7 @@ Very sore today after overdoing it yesterday with three repeats of the seven-min
 
 No HackTile work, but put together an animation to post to Twitter.
 
-![Animation Demo](/diary/assets/hacktile1.gif)o
+![Animation Demo](/diary/assets/hacktile1.gif) o
 
 Have been playing around with the editor, thinking about rules.
 
@@ -32,4 +32,4 @@ Very hungover. Should have stuck to my guns and avoided the drink. Slow morning 
 
 Jack back to North Shore! We hope it'll give him some discipline at school and that his grades will improve by the end of the year. Island Market for brunch; tried to limit what I ate. Then preparing steamboat once back home. Faith and Yoshiya loved playing the Vive, and I celebrated the halfway point of the increasingly inappropriately named "dry july" by sharing two bottles of red. Late night for the kids, and I couldn't face cleaning up straight away, so watched "The Shining" first. Ended up still awake at 2:30am. No HackTile.
 
-[Previous](/diary/page17)Page: 18 of 26[Next](/diary/page19)
+[Previous](/diary/page17) Page: 18 of 26 [Next](/diary/page19)

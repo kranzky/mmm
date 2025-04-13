@@ -52,4 +52,4 @@ Beautiful morning. Eliza off to tennis training. Jack and I reading over a lazy 
 
 Back home for a rest, then dropped the kids to Finlay's for a sleepover. Dzung and I out to meet up with Annie and Elaine for a dinner at Garum, Guy Grossi's new Perth restaurant. I thought the food was great, although not all of us agreed; there was a general mood of dissatisfaction with everything, which put somewhat of a damper on the evening. Ended with a brandy and a few more chapters, and, as you may have guessed, no HackTile.
 
-[Previous](/diary/page23)Page: 24 of 26[Next](/diary/page25)
+[Previous](/diary/page23) Page: 24 of 26 [Next](/diary/page25)

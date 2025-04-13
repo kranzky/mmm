@@ -58,4 +58,4 @@ Jack had school photos today. I cooked bolognaise for dinner. Full from overeati
 
 Jack to NorthShore. Eliza and I teamed up to play "Captain Toad's Treasure Tracker". Then to Van's for lunch; Ba made steak and vegetables. Did some shopping in the afternoon, and made vegetable soup in the Thermomix for dinner. Still early, so Eliza cajoled us into playing Munchkin. She won, of course, but there was no backstabbing (so it was really just a race to the finish). Watched a few episodes of "Handmaid's Tale" with Dzung once the kids were asleep. Again with the lack of HackTile.
 
-[Previous](/diary/page16)Page: 17 of 26[Next](/diary/page18)
+[Previous](/diary/page16) Page: 17 of 26 [Next](/diary/page18)

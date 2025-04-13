@@ -36,4 +36,4 @@ Beautiful morning. Eliza off to tennis with Lilian, and Dzung took Jack into Nor
 
 Went for a walk / bike ride in the afternoon. Eliza unhappy about going to school tomorrow due to the issues she's having with her friends, so we walked and talked while Dzung and Jack rode ahead. Ate Bravo apples and explored Bullcreek; I took them by a different route to the river. Back home for tea and Tim Tams; I did my best to maximise the hygge of the situation! Played Captain Toad with Eliza and then with Jack. Kids practised piano and had showers while I made stir fried vegetables with leftovers, which I served with rice and the hasselback potatoes from the other night. Ended the evening watching two episodes from the new season of Better Call Saul with Dzung.
 
-[Previous](/diary/page12)Page: 13 of 26[Next](/diary/page14)
+[Previous](/diary/page12) Page: 13 of 26 [Next](/diary/page14)

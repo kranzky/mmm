@@ -28,4 +28,4 @@ Quiet day at work; Labor Day in the USA. Took Jack to Piney Lakes to muck about 
 
 Slow morning; a bit hungover. Dzung collected the kids while I made brunch for her side of the family. Kingfish carpaccio, Japanese eggplant, katsu pork curry. Sat outside in the spring sunshine and drank some good wine. Packed up and then started cooking the roast lamb for dinner, with my side of the family over. Was delicious, and everyone had a great time. Mum a bit emotional talking about her three boys. Eliza and Jack had lots of fun playing outside with Fin and Eva, then Mario Kart after it got dark.
 
-[Previous](/diary/page10)Page: 11 of 26[Next](/diary/page12)
+[Previous](/diary/page10) Page: 11 of 26 [Next](/diary/page12)

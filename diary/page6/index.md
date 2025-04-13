@@ -112,4 +112,4 @@ The heuristic for selecting the best generation will be a function of two factor
 
 These fixation words should also be determined stochastically from data, by observing words that tend to occur in clusters. I am trying here to identify character names, locations, objects and so on that are pertinent to the story. If the model generates a sentence containing the word `SHERLOCK`, for instance, then the mere presence of this word in the story should make it much more likely to occur in the future. This is something to be figured out.
 
-[Previous](/diary/page5)Page: 6 of 26[Next](/diary/page7)
+[Previous](/diary/page5) Page: 6 of 26 [Next](/diary/page7)

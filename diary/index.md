@@ -34,7 +34,7 @@ Dzung and I bought some new outdoor furniture while down there. Free shipping an
 
 Straight to Rob's birthday pizza party after arriving back home on Saturday. Met lots of Agworld folk that only knew me from my git commits (I left the company almost ten years ago, resigning on Monday the 16th of February 2015, and have been working remotely ever since).
 
-Had a long chat with Andrew, whom I hadn't seen since leaving Agworld. Jack, Krystal, Andrew and I entered Nanowrimo in 2015, and I wrote "Insoluble" then. You can[read it on Medium](https://medium.com/insoluble-consciousness-explained)if you're so inclined,[get it on Kindle](https://www.amazon.com.au/Insoluble-Consciousness-Explained-Accurate-Historical-ebook/dp/B0C4L3Y154)or even order the paperback! Anyway, I digress. We had a long chat, Andrew talking about his older son who is now training as a fighter pilot in Germany, and his younger son who is going into year 11. I spoke about my interests during which it dawned on me that I really like exploring how technology can help with three things that are often not given the attention they deserve: discovery (i.e. how to find unknown unknowns), creativity (i.e. how to have an idea and build something new) and community (i.e. how to foster trusted relationships amongst a group of strangers). More on those things later this year perhaps, for now I don't want to set the weeknotes bar too high so I'll end things there.
+Had a long chat with Andrew, whom I hadn't seen since leaving Agworld. Jack, Krystal, Andrew and I entered Nanowrimo in 2015, and I wrote "Insoluble" then. You can [read it on Medium](https://medium.com/insoluble-consciousness-explained) if you're so inclined, [get it on Kindle](https://www.amazon.com.au/Insoluble-Consciousness-Explained-Accurate-Historical-ebook/dp/B0C4L3Y154) or even order the paperback! Anyway, I digress. We had a long chat, Andrew talking about his older son who is now training as a fighter pilot in Germany, and his younger son who is going into year 11. I spoke about my interests during which it dawned on me that I really like exploring how technology can help with three things that are often not given the attention they deserve: discovery (i.e. how to find unknown unknowns), creativity (i.e. how to have an idea and build something new) and community (i.e. how to foster trusted relationships amongst a group of strangers). More on those things later this year perhaps, for now I don't want to set the weeknotes bar too high so I'll end things there.
 
 [2025-01-06](/diary/2025/01/06.md)
 
@@ -56,7 +56,7 @@ This is a test post. It has been quite a while since I last posted here, but in 
 
 ###### Image Source: https://www.claytonutz.com/cfimages/Home%20Page%20Image\_Final.webp/public
 
-Well, it's been a while! Back in March Timothy Webb of Clayton Nutz, a law firm, sent me an email (actually, Prashant Bhardwaj sent it, but it was signed by Tim) regarding the PicRights / Reuters copywrite phishing attempt on my old[FaqOverflow](https://faqoverflow.kranzky.com/)hobbyist website.
+Well, it's been a while! Back in March Timothy Webb of Clayton Nutz, a law firm, sent me an email (actually, Prashant Bhardwaj sent it, but it was signed by Tim) regarding the PicRights / Reuters copywrite phishing attempt on my old [FaqOverflow](https://faqoverflow.kranzky.com/) hobbyist website.
 
 # Timothy Webb
 
@@ -70,7 +70,7 @@ They threatened taking the case to court, asking for a settlement of $2,425.00, 
 
 ###### Image Source: https://www.claytonutz.com/cfimages/Art%20Partnership\_707x501px\_1.webp/HeroLevel2
 
-What's even more interesting is that[www.claytonutz.com](https://www.claytonutz.com/) contains lots of licensed images (a simple reverse-image search is enough to prove that), which of course they will have paid for, but their[copyright notice](https://www.claytonutz.com/site-information/copyright-notice)clearly states that all material on their website, including images, can be reproduced for personal and non-commercial purposes.
+What's even more interesting is that [www.claytonutz.com](https://www.claytonutz.com/) contains lots of licensed images (a simple reverse-image search is enough to prove that), which of course they will have paid for, but their [copyright notice](https://www.claytonutz.com/site-information/copyright-notice) clearly states that all material on their website, including images, can be reproduced for personal and non-commercial purposes.
 
 ![Governence](https://www.claytonutz.com/cfimages/707x501__0003_Governance%20G.webp/HeroLevel2)
 
@@ -94,7 +94,7 @@ Well, I still haven't been sued by PicRights. They did reduce their requests for
 
 Anyway, new year and things are going well. Eliza is off on a month-long holiday around the world before she starts Uni. We'll miss her, but I'm sure it will be a memorable experience for her.
 
-I've also started a podcast with Talbs, called[The Movies of 1999](https://1999.kranzky.com). It's a side-project of my goal in 2024 of hosting a movie night every Sunday to watch a movie from 1999. It's off to a good start, and I hope we can keep the motivation and release all 52 episodes. Only time will tell!
+I've also started a podcast with Talbs, called [The Movies of 1999](https://1999.kranzky.com). It's a side-project of my goal in 2024 of hosting a movie night every Sunday to watch a movie from 1999. It's off to a good start, and I hope we can keep the motivation and release all 52 episodes. Only time will tell!
 
 I will leave the final word to [MegaHAL](https://megahal.kranzky.com)...
 
@@ -109,4 +109,4 @@ I will leave the final word to [MegaHAL](https://megahal.kranzky.com)...
 2024-01-12T09:12:22+00:00|MegaHAL|life is awesome!
 ```
 
-PreviousPage: 1 of 26[Next](/diary/page2)
+PreviousPage: 1 of 26 [Next](/diary/page2)

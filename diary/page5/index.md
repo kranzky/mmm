@@ -20,7 +20,7 @@ Sidetracked by our Punk Collective commitment to build a game each in the next q
 
 ![Blattix](/diary/assets/blattix.png)
 
-This will be a retro-style shooter with multiple waves of enemies, going for high replayability rather than depth of content. I've drawn inspiration from[Encounter](https://youtu.be/4CHN-usjFfE?t=12), [Cosmic Causeway](https://youtu.be/i2SvzHY6JhY?t=1), [BallBlazer](https://youtu.be/ISXUs6kYS2Q?t=24) and[Vaxine](https://youtu.be/cT4fGokPVJ4?t=166).
+This will be a retro-style shooter with multiple waves of enemies, going for high replayability rather than depth of content. I've drawn inspiration from [Encounter](https://youtu.be/4CHN-usjFfE?t=12), [Cosmic Causeway](https://youtu.be/i2SvzHY6JhY?t=1), [BallBlazer](https://youtu.be/ISXUs6kYS2Q?t=24) and [Vaxine](https://youtu.be/cT4fGokPVJ4?t=166).
 
 It's been an excuse to learn some shader programming, and to brush up on my linear algebra. I'm not using a 3D game engine at all, it's just rendering sprites and doing a bit of tricky jiggery-pokery. Next I will move on to building a simple physics engine, which will allow collisions between objects, enabling some shoot-em-up gameplay.
 
@@ -36,17 +36,17 @@ I'm really looking forward to getting all that done and dusted so I can get back
 
 [2021-03-11](/diary/2021/03/11.md)
 
-I wrote a[blog post](https://medium.com/the-magic-pantry/the-case-of-the-fake-database-7bde487213a3)about RnDB _and_ recorded a video walkthough (which is linked to from the post), and had a decent response on Reddit (prompting me to add a few new features, particularly the ability to load and save mutations). Very nice to complete something, ship it and get feedback from the community in such a short window of time. And I can now cross RnDB off the list of project ideas that constantly nag at me in the back of my mind.
+I wrote a [blog post](https://medium.com/the-magic-pantry/the-case-of-the-fake-database-7bde487213a3) about RnDB _and_ recorded a video walkthough (which is linked to from the post), and had a decent response on Reddit (prompting me to add a few new features, particularly the ability to load and save mutations). Very nice to complete something, ship it and get feedback from the community in such a short window of time. And I can now cross RnDB off the list of project ideas that constantly nag at me in the back of my mind.
 
-I discovered[Standard Ruby](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/)and spent a bit of time making my existing project repositories compliant, but this in part was to distract myself from GumShoe refactoring, which is progressing slowly. It dawned on me that the process isn't so much one of coding but of re-arranging things in your head. After many days of thinking and a few false starts I now have a rough architecture that makes sense, and I'm working to finish the refactoring and have a demo of the back-end integration up-and-running by early next week.
+I discovered [Standard Ruby](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/) and spent a bit of time making my existing project repositories compliant, but this in part was to distract myself from GumShoe refactoring, which is progressing slowly. It dawned on me that the process isn't so much one of coding but of re-arranging things in your head. After many days of thinking and a few false starts I now have a rough architecture that makes sense, and I'm working to finish the refactoring and have a demo of the back-end integration up-and-running by early next week.
 
-This will coincide with the end of[The 7DRL Challenge](https://7drl.com/), which some of the other Punks are participating in. Beetlefeet is building an awesome golf rpg, while Maxxor is making an apocalyptic wasteland with dynamic lighting effects. At our second coffee shop meetup yesterday they showed great progress. Chr15m started strong but bowed out after his Office Brawl simulator failed to light a spark, which is precisely the right thing to do. Follow the passion and fail early. Great to see!
+This will coincide with the end of [The 7DRL Challenge](https://7drl.com/), which some of the other Punks are participating in. Beetlefeet is building an awesome golf rpg, while Maxxor is making an apocalyptic wasteland with dynamic lighting effects. At our second coffee shop meetup yesterday they showed great progress. Chr15m started strong but bowed out after his Office Brawl simulator failed to light a spark, which is precisely the right thing to do. Follow the passion and fail early. Great to see!
 
 [2021-02-25](/diary/2021/02/25.md)
 
 After a lot of focused work on Gumshoe, I reached a milestone that allowed me to put together a simple, complete game, which is currently playable online. It's fun, and easy for others to pick up and try. But all this rushing meant that some refactoring and tidying up was in order, and, instead of doing that, I decided to descend the procedural generation rabbit-hole.
 
-I've finally come up for air, releasing[RnDB](https://github.com/kranzky/rndb)into the public domain as evidence that I was actually doing something. Over the coming weekend I'll finish that off, perhaps recording an explanatory video.
+I've finally come up for air, releasing [RnDB](https://github.com/kranzky/rndb) into the public domain as evidence that I was actually doing something. Over the coming weekend I'll finish that off, perhaps recording an explanatory video.
 
 It's an itch I've been longing to scratch for a while, having first has the idea while working on LA Noire at Team Bondi in 2005. So great to get it done and shipped in just a week or so of intensive work.
 
@@ -80,4 +80,4 @@ I will continue working on this in tandem with HackTile, switching between the t
 
 In other news, we are in hard lockdown for five days. The kids should have started school today, but summer holidays have been extended for a week.
 
-[Previous](/diary/page4)Page: 5 of 26[Next](/diary/page6)
+[Previous](/diary/page4) Page: 5 of 26 [Next](/diary/page6)

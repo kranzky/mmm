@@ -14,7 +14,7 @@ And over five months since I've last posted! Jack is 14, Eliza is in her last fe
 
 What a whirlwind of a week! The kids charged back to school, and Eliza tackled her tests head-on, even though it cost her some precious Zs. And guess who's now a member of the big 5-0 club? My good friend Wil! We caught up on Monday after a long, school-holiday-induced separation. Also, we've started watching Sweet Tooth with the kids, and they can't get enough of it!
 
-But life is full of surprises: Dana, my incredible wife, suddenly needed gall bladder surgery. Poor thing had to skip the Bali trip with her friends. On the bright side, the weather turned cold and rainy, making our home a perfect nest of comfort. Last night, we savoured an amazing steak dinner, straight out of the anime "Campfire Cooking in Another World Using My Unique Skill". Work's going great too – I'm making fantastic progress, and there's a big project milestone waiting for me next week. Bring it on!
+But life is full of surprises: Dana, my incredible wife, suddenly needed gall bladder surgery. Poor thing had to skip the Bali trip with her friends. On the bright side, the weather turned cold and rainy, making our home a perfect nest of comfort. Last night, we savoured an amazing steak dinner, straight out of the anime "Campfire Cooking in Another World Using My Unique Skill". Work's going great too - I'm making fantastic progress, and there's a big project milestone waiting for me next week. Bring it on!
 
 [2023-01-30](/diary/2023/01/30.md)
 
@@ -54,7 +54,7 @@ D. travelled in the Ambulance with Joshie, taking him to Perth Children's Hospit
 
 [2022-08-24](/diary/2022/08/24.md)
 
-Took Jack to Melbourne on Friday to see AJR, his favourite band. Their shows are great—big, operatic productions—and they are only touring on the east coast. We flew out in the morning, arriving after 4pm (the flight was delayed), and we took an Uber to our airbnb apartment in St. Kilda. After settling in we ate gumbo, pulled pork po-boys and curly fries for dinner at Dog's Bar across the street, then walked to Palais Theatre for the show.
+Took Jack to Melbourne on Friday to see AJR, his favourite band. Their shows are great-big, operatic productions-and they are only touring on the east coast. We flew out in the morning, arriving after 4pm (the flight was delayed), and we took an Uber to our airbnb apartment in St. Kilda. After settling in we ate gumbo, pulled pork po-boys and curly fries for dinner at Dog's Bar across the street, then walked to Palais Theatre for the show.
 
 The queue for merch was massive, but we joined it and missed most of the warmup act as a result. But Jack managed to get a t-shirt and a few other mementos. The show itself was astounding, we both had a ball, and Jack was excited that the sound of the crowd singing will be used on the next album.
 

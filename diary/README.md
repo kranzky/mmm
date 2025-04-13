@@ -1,4 +1,0 @@
-```
-> bundle install
-> jekyll serve
-```

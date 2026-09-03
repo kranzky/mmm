@@ -128,3 +128,114 @@ $\normalsize Hello!$
 $\small Hello!$
 $\scriptsize Hello!$
 $\tiny Hello!$
+
+Emoji:
+
+- Raw emoji in text: 🚀 🎉 👍 ❤️ ✨ 🐛 🌏
+- Shortcodes: :rocket: :tada: :+1: :heart: :sparkles: :bug: :earth_asia:
+- Unknown shortcodes stay as written: :not_an_emoji:, and times like 10:30 are safe
+- In code they are literal: `:rocket:`
+- Outside the bundled set the browser shows a placeholder: 🐙
+
+```
+:tada: inside a code block is also literal
+```
+
+Code blocks with a language (syntax highlighting):
+
+```python
+def fib(n: int) -> int:
+    """Return the n-th Fibonacci number."""
+    return n if n < 2 else fib(n - 1) + fib(n - 2)  # naive
+```
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    const char* who = "world";  /* classic */
+    printf("hello, %s\n", who);
+    return 0;
+}
+```
+
+```javascript
+const greet = (name = "world") => `hello, ${name}`;
+export default greet;
+```
+
+```json
+{ "name": "vertext", "free": true, "version": 0.1, "tags": ["markdown", "browser"] }
+```
+
+```
+A very long line without a language: the quick brown fox jumps over the lazy dog again and again until the line is wider than any pane can show
+```
+
+Tables with alignment, inline formatting and wrapping:
+
+| Left | Centre | Right |
+|:-----|:------:|------:|
+| `code` | **bold** | 1,234.56 |
+| [link](index.md) | *emphasis* | 7 |
+| A long cell that should wrap onto several lines when the column is narrow | ~~struck~~ | 0 |
+
+| One | Two | Three | Four | Five | Six | Seven | Eight |
+|-----|-----|-------|------|------|-----|-------|-------|
+| a | b | c | d | e | f | g | h |
+
+Images:
+
+- PNG: ![Cernettes PNG](cernettes.png "The first photo on the web")
+- WebP (unsupported until further notice, alt text shows): ![Cernettes WebP](cernettes.webp)
+- Missing file (alt text and a broken marker): ![Not here](missing.png)
+- Absolute URL: ![Twemoji rocket](https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f680.png)
+
+Links of every kind:
+
+- Markdown, same site: [Vertext](vertext.md)
+- Anchor on this page: [I'm h2](#im-h2), and a broken one: [nowhere](#no-such-heading)
+- External HTML: [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+- Autolink: https://mmm.kranzky.com/index.md and <mailto:hello@example.com>
+- Wiki link: [[index]] and [[vertext|the browser]]
+- Reference style: [the spec][cm]
+
+[cm]: https://spec.commonmark.org/
+
+Quotes containing other blocks:
+
+> A quote with a list:
+>
+> - one
+> - two
+>
+> and code:
+>
+> ```
+> quoted code
+> ```
+>
+> > and a nested quote with a [link](index.md).
+
+Escapes and edge cases:
+
+- Escaped markers: \*not emphasis\*, \`not code\`, \# not a heading
+- Hard break with two spaces  
+  continues here; and with a backslash\
+  continues here too
+- A very long unbroken word: Pneumonoultramicroscopicsilicovolcanoconiosisantidisestablishmentarianismsupercalifragilisticexpialidocious
+- A long URL in text: https://example.com/a/very/long/path/that/keeps/going/and/going/with/no/spaces/at/all/index.md
+- Non-Latin text: 日本語のテキストは単語の区切りがないので、どこでも折り返せる必要があります。 Ελληνικά, кириллица, العربية (right-to-left is shown left-to-right for now)
+- Raw HTML is dropped: <span style="color:red">this span's text stays, the tag goes</span>
+
+<div align="center">
+This block-level HTML is dropped entirely.
+</div>
+
+Heading with inline formatting and an explicit id:
+
+### A *styled* `heading` with a [link](index.md) {#styled-heading}
+
+Footnotes are not supported and stay literal[^1].
+
+[^1]: This line is shown as ordinary text.

@@ -1,0 +1,49 @@
+name: Deploy to mmm.kranzky.com
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  S3_BUCKET: ${{ vars.S3_BUCKET || 'mmm.kranzky.com' }}
+  AWS_REGION: ${{ vars.AWS_REGION || 'us-east-1' }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      # Markdown must be served as text/markdown or the MMM client won't render it.
+      - name: Sync markdown
+        run: |
+          aws s3 sync . "s3://$S3_BUCKET" \
+            --exclude "*" --include "*.md" \
+            --content-type "text/markdown; charset=utf-8"
+
+      # Images get their MIME type guessed from the extension.
+      - name: Sync images
+        run: |
+          aws s3 sync . "s3://$S3_BUCKET" \
+            --exclude "*" \
+            --include "*.png" --include "*.jpg" --include "*.gif" --include "*.webp"
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}" \
+            --paths "/*"

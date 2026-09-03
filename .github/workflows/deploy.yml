@@ -13,8 +13,9 @@ permissions:
   contents: read
 
 env:
-  S3_BUCKET: ${{ vars.S3_BUCKET || 'mmm.kranzky.com' }}
-  AWS_REGION: ${{ vars.AWS_REGION || 'us-east-1' }}
+  # The site is served from the mdw.kranzky.com bucket; mmm.kranzky.com is an alias on the same distribution.
+  S3_BUCKET: ${{ vars.S3_BUCKET || 'mdw.kranzky.com' }}
+  AWS_REGION: ${{ vars.AWS_REGION || 'us-west-1' }}
 
 jobs:
   deploy:
